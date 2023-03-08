@@ -5,10 +5,10 @@
 /.config/
 /.git/
 
-#poetry.lock
-#pyproject.toml
-#.replit
-#replit.nix
+poetry.lock
+pyproject.toml
+.replit
+replit.nix
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
